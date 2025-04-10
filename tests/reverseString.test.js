@@ -1,4 +1,4 @@
-const reverse = require("./src/reverseString");
+const reverse = require("../src/reverseString");
 
 describe("#capitalize()", () => {
   it("should return Test", () => {
